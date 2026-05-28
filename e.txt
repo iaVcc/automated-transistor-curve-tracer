@@ -1,0 +1,208 @@
+- Solderless jumper wires
+- Breadboard power supply module
+- breadboards
+
+
+- IC 74HC595
+- IC 4N35
+- Percision potentiometers
+- Passive buzzer
+- Active buzzer
+- Buttons
+- LEDs
+- Electrolytic capacitors
+- Ceramic capacitors
+- 40 Pin headers
+- Thermistor
+- Photo Resistor
+- Resistors
+- Electrolytic capacitors
+- Ceramic capacitors
+
+
+-AstroAl Digital Multimeter 2000
+
+Amazon Link 1: https://www.amazon.ca/dp/B01ERPEMAC?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- Breadboard power supply module
+- IC 74HC595
+- IC 4N35
+- Percision potentiometers
+- Passive buzzer
+- Active buzzer
+- Buttons
+- LEDs
+- Electrolytic capacitors
+- Ceramic capacitors
+- 40 Pin headers
+- Thermistor
+- Photo Resistor
+- Resistors
+- Electrolytic capacitors
+- Ceramic capacitors
+
+Amazon Link 2: https://www.amazon.ca/dp/B01ISAMUA6?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1 
+-AstroAl Digital Multimeter 2000
+
+
+Amazon Link 3: https://www.amazon.ca/dp/B0DBVDG1D5?ref=ppx_yo2ov_dt_b_fed_asin_title
+-Tonton 9V Power Supply Adapter Charger
+
+
+
+Amazon Link 4:https://www.amazon.ca/dp/B087BFP3JN?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- Arduino Mega 2560
+- I2C LCD 1602
+- Prototype sheild
+- 9G servo
+- Ultrasonic ranging module
+- Water level detection sensor module
+- Motor module
+- ULN2003 Driver Module
+- Stepping motor
+- Joystick
+- Rotary encoder module
+- Dot matrix module
+- MFRC522 RFID module
+- Remote controller
+- Fan
+- Relay module
+- Sound sensor module
+- Infared obstacle avoidance module
+- Temperature and humidity sensor
+- MPU 6050 module
+- Touch sensor
+- MPR121
+- Infare motion sensor
+- IR receiver
+- 4 digit seven segment display
+- 1 digit seven segment display
+- LED bar graph
+- Side switch
+- IC L293D
+- Tilt switch
+- Dupont wire
+- Keypad
+- 9V battery cable
+
+Amazon Link 5: https://www.amazon.ca/dp/B07TBYFN3X?ref=ppx_yo2ov_dt_b_fed_asin_title
+- DSD TECH SH-D2004 20x4 2004 LCD Display Screen Blue with IIC Module Interface Adapter for Arduino UNO R3 Mega2560 Nano Raspberry pi
+
+
+
+Amazon Link 6: https://www.amazon.ca/dp/B0BBLXXJ4Q?ref=ppx_yo2ov_dt_b_fed_asin_title
+- TCS34725 Color Recognition Sensor Module RGB Color Detector Sensor Module Board Supports Bright Light Detecter GY-TCS34725 for
+
+
+
+Amazon Link 7: https://www.amazon.ca/dp/B0D9QXMKWG?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- Speaker 3 Watt 4 Ohm Mini Speaker Micro Speaker with JST-PH2.0 Interface
+
+
+Amazon Link 8: https://www.amazon.ca/dp/B0CQ4VJJ8D?ref=ppx_yo2ov_dt_b_fed_asin_title
+- 4-Pack Rechargeable 9 Volt Lithium-ion Batteries, 1300mAh Long Lasting Power, USB-C Recharge with 2 in 1 Charging Cable
+
+
+Amazon Link 9: https://www.amazon.ca/dp/B07BFTYY6L?ref=ppx_yo2ov_dt_b_fed_asin_title
+- Gikfun Round Micro Speaker Diameter 30mm 8Ohm 8R 2W
+
+
+Amazon Link 10: https://www.amazon.ca/dp/B0CGHY69HM?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+-  Soldering Iron Kit 80W LCD Adjustable Temperature 180-520℃ Solder Kit Electronics 12 in 1 Welding Tools with ON/Off Switch, Solder Wire, 5 Soldering Tips, Desoldering Pump, Stand, Tweezers
+
+
+Amazon Link 11: https://www.amazon.ca/dp/B08J87S722?ref=ppx_yo2ov_dt_b_fed_asin_title
+-  1W Zener Diode Assorted Kit Set 200 Pcs 10 Values Voltage Regulator Diodes, 1N4728 1N4729 1N4730 1N4731 1N4732 1N4733 1N4734 1N4735 1N4736 1N4737, 3.3V - 7.5V
+
+
+Amazon Link 12: https://www.amazon.ca/dp/B07P8N8BW9?ref=ppx_yo2ov_dt_b_fed_asin_title
+- OJACK 15 Type Values 600Pcs Ceramic Capacitor Assortment Kit Capacitors from 10pf to 100nF in a Box
+
+
+Amazon Link 13: https://www.amazon.ca/dp/B0GBZ91PJN?ref=ppx_yo2ov_dt_b_fed_asin_title
+- MCP4725 12 Bit I2C IIC DAC Development Board Breakout Board Internal EEPROM Store Settings f
+
+
+Amazon Link 14: https://www.amazon.ca/dp/B0F1D3KGG2?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- ADS1115 16 Bit 16 Byte 4 Channel I2C IIC Analog-to-Digital ADC PGA Converter with Programmable Gain Amplifier High Precision ADC Converter Development Board
+
+
+Amazon Link 15: https://www.amazon.ca/dp/B0DSMZ55H5?ref=ppx_yo2ov_dt_b_fed_asin_title
+- MECCANIXITY 6Pcs Universal IC Test ZIF Socket 28 Pin 2.54mm Pitch DIP Integrate Socket
+
+
+Amazon Link 16: https://www.amazon.ca/dp/B01EWOE0UU?ref=ppx_yo2ov_dt_b_fed_asin_title
+-ELEGOO UNO R3 Board ATmega328
+
+
+Amazon Link 17: https://www.amazon.ca/dp/B09TS5FGQH?ref=ppx_yo2ov_dt_b_fed_asin_title
+- Adeept Acrylic Arduino Holder Breadboard Holder, 2 in 1 Base Plate Case for Arduino UNO
+
+
+Amazon Link 18: https://www.amazon.ca/dp/B0C2GXLWYD?ref=ppx_yo2ov_dt_b_fed_asin_title
+- Swpeet 270Pcs 18 Sizes M3 M4 M5 M6 Black Nylon Round Spacer Standoff Screw Nut Assortment Kit, Nylon ABS Plastic Standoff, Length 3mm 5mm 6mm 8mm 10mm 12mm 18mm 20mm 25mm for Screws Prototyping
+
+
+Amazon Link 19: https://www.amazon.ca/dp/B09XXKG863?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+-KOTTO Solder Smoke Absorber Remover Fume Extractor Smoke Prevention Absorber DIY Working Fan for Soldering Station (Black)
+
+
+
+Amazon Link 20: https://www.amazon.ca/dp/B0C1V82313?ref=ppx_yo2ov_dt_b_fed_asin_title
+- 24 Values BJT Transistor Kit A1015 A733 C945 C1815 S8050 S8550 S9012 S9013 S9014 S9015 S9018 2N7000 2N2222 2N2907 2N3904 2N3906 2N5401 2N5551 BC327 BC337 BC547 BC550 BC557 BC560 Transistors
+
+
+
+Amazon Link 21: https://www.amazon.ca/dp/B09SYDFCM8?ref=ppx_yo2ov_dt_b_fed_asin_title
+- 1014D Digital Oscilloscope and Function Generator 2-in-1
+
+
+
+Amazon Link 22: https://www.amazon.ca/dp/B08JTM2SMJ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- IC pack: LM324,LM358,LM386,LM393,NE5532,NE555,PC817,ULN2003,ULN2803,ICL7660S,JRC4558,LM339,TDA2030AN,TDA2822D,PT2399,UC3842AN,UC3843AN,DIP4 socket, DIP8 socket, DIP14 socket, DIP16 socket, DIP18 socket.
+
+
+Amazon Link 23: https://www.amazon.ca/dp/B082J3F8HJ?ref=ppx_yo2ov_dt_b_fed_asin_title
+- BOJACK 10 Values MOSFET transistors Assortment Kit
+
+    Specifications:
+
+    Product Name: MOSFET transistors
+    Package Quantity:50 Pcs (Each model 5 pcs)
+    Packed in A Rugged Convenient Re-sealable Plastic Storage Case.
+    Package Included:
+    N-Channel:
+
+    IRFZ44N-----------49A/55V
+    IRF510N-----------5.6A/100V
+    520N-----------9.7A/100V
+    5 PcsIRF530N-----------17A/100V
+    5 Pcs-------IRF540N-----------33A/100V
+    5 Pcs-------IRF640N-----------18A/200V
+    5 Pcs-------IRF740--------------10A/400V
+    5 Pcs-------IRF840--------------8A/500V
+    5 Pcs-------IRF3205------------110A/55V
+
+    P-Channel:
+    5 Pcs-------IRF9540------------23A/100V
+
+    Lead-free environmental protection
+
+
+Amazon Link 24: https://www.amazon.ca/dp/B0B8S6CH3H?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- DC Power Supply Variable, 0-30V 0-10A
+
+
+Amazon Link 25: https://www.amazon.ca/dp/B07KC99W2K?ref=ppx_yo2ov_dt_b_fed_asin_title
+- Swpeet 240Pcs 24 Kinds Different Electrolytic Capacitors Range 0.1uF－1000uF Assortment Kit, 10V/16V/25V/50V Aluminum Radial Electrolytic Capacitors
+
+Amazon Link 26: https://www.amazon.ca/dp/B0F9NQCYNB?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+- Inductor
+- 0.7 x 3.5 x 1.5T, 80pcs 0.7 x 3.5 x 2.5T, 80pcs 0.7 x 3.5 x 3.5T, 50pcs 0.7 x 3.5 x 4.5T, 50pcs 0.7 x 3.5 x 5.5T, 50pcs 0.7 x 3.5 x 6.5T, 50pcs 0.7 x 3.5 x 7.5T.
+
+Aliexpress Link 1: https://www.aliexpress.com/item/1005010621055955.html?spm=a2g0o.order_list.order_list_main.10.4f9e1802mblty3
+- 10PCS 100% NEW MCP6002T-I/SN screen printing MCP6002I patch MCP6002 SOP8 operational amplifier Chipset
+
+Aliexpress Link 2: https://www.aliexpress.com/item/1005012201685016.html?spm=a2g0o.order_list.order_list_main.14.4f9e1802mblty3
+- 10PCS 1/4W 0.1% Precise resistance, 10 100 1k
+
+

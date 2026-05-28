@@ -1,7 +1,7 @@
 # Physical Components and Equipment Checklist
 Document to make tracking what I got and when I'll need them easier.
 
-## Phase 1: Minimum Needed to Start
+## Phase 1: Start
 
 ### Bench Equipment
 - [ ] Adjustable DC Bench Power Supply
@@ -32,7 +32,7 @@ Document to make tracking what I got and when I'll need them easier.
 - [ ] 1uF Capacitors
 - [ ] 10uF Electrolytic Capacitors
 
-### Semiconductors to Test
+### Semiconductors
 - [ ] 2N3904 NPN BJT
 - [ ] 2N2222 NPN BJT
 - [ ] 2N3906 PNP BJT
@@ -108,3 +108,8 @@ Might be overambitious lol but we'll see.
 - [ ] PCB enclosure
 - [ ] GUI application for live plotting
 - [ ] Automated parameter extraction
+
+<br><br><br><br><br><br><br><br><br>
+
+# STUFF
+
