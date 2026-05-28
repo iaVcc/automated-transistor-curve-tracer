@@ -1,115 +1,148 @@
-# Physical Components and Equipment Checklist
-Document to make tracking what I got and when I'll need them easier.
+# Tools and Components Checklist
 
-## Phase 1: Start
+Checklist of physical tools, components, and software I'll need for this project.
 
-### Bench Equipment
-- [ ] Adjustable DC Bench Power Supply
-- [ ] Digital Multimeter
-- [ ] Oscilloscope with Function Generator
+---
 
-### Development Board
-- [ ] Arduino Uno R3
+# Bench Equipment
 
-### Prototyping
-- [ ] Solderless Breadboard
-- [ ] Jumper Wires
-- [ ] USB Cable for Arduino
+* [x] Adjustable DC bench power supply
+* [x] Digital multimeter
+* [x] Oscilloscope with function generator
 
-### Core Modules and ICs
-- [ ] MCP4725 DAC Module
-- [ ] ADS1115 ADC Module
-- [ ] MCP6002 Op-Amp
-- [ ] LM358 Op-Amp
+---
 
-### Passive Components
-- [ ] 10Ω Resistors
-- [ ] 100Ω Resistors
-- [ ] 1kΩ Resistors
-- [ ] 10kΩ Resistors
-- [ ] 100kΩ Resistors
-- [ ] 100nF Ceramic Capacitors
-- [ ] 1uF Capacitors
-- [ ] 10uF Electrolytic Capacitors
+# Development Board
 
-### Semiconductors
-- [ ] 2N3904 NPN BJT
-- [ ] 2N2222 NPN BJT
-- [ ] 2N3906 PNP BJT
-- [ ] 2N7000 N-Channel MOSFET
-- [ ] BS170 N-Channel MOSFET
-- [ ] 1N4148 Switching Diode
-- [ ] 1N4007 Rectifier Diode
-- [ ] 5.1V Zener Diode
+* [x] Arduino Uno R3
+* [x] USB cable for Arduino
 
-## Phase 2: Prototype Refinement
+---
 
-### Sockets and Connectors
-- [ ] 14-pin or 16-pin ZIF Socket
-- [ ] DIP-8 IC Sockets
-- [ ] Screw Terminal Blocks
-- [ ] Male Header Pins
-- [ ] Female Header Pins
+# Prototyping
 
-### Wiring and Test Accessories
-- [ ] Alligator Clip Leads
-- [ ] Banana Plug Leads
-- [ ] Heat Shrink Tubing
+* [x] Solderless breadboard
+* [x] Jumper wires
+* [x] Breadboard power supply module
 
-### Precision Components
-- [ ] 0.1% Precision 10Ω Resistor
-- [ ] 0.1% Precision 100Ω Resistor
-- [ ] 0.1% Precision 1kΩ Resistor
+---
 
-## Phase 3: PCB Version
+# Core Measurement Modules
 
-### PCB Hardware
-- [ ] Custom PCB
-- [ ] PCB Standoffs
-- [ ] Mounting Screws
-- [ ] Rubber Feet
+* [x] MCP4725 DAC module
+* [x] ADS1115 ADC module
 
-### Assembly
-- [ ] Soldering Tools and Consumables
+---
 
-## Software and Development Tools
+# Analog Components
 
-### Programming
-- [ ] Arduino IDE
-- [ ] VS Code
-- [ ] Python 3
+## Op-Amps
 
-### Python Libraries
-- [ ] pyserial
-- [ ] matplotlib
-- [ ] numpy
+* [x] MCP6002 rail-to-rail op-amp
+* [x] LM358 op-amp
 
-### Engineering Software
-- [ ] KiCad
-- [ ] LTspice
+## Resistors
 
-### Version Control
-- [ ] Git
-- [ ] GitHub Repository Setup
+* [x] General resistor assortment
+* [x] 0.1% precision 10Ω resistors
+* [x] 0.1% precision 100Ω resistors
+* [x] 0.1% precision 1kΩ resistors
+* [ ] 1% metal film resistor assortment
 
-## Protection and Safety Features
+## Capacitors
 
-- [ ] Input current limiting
-- [ ] Reverse polarity protection
-- [ ] Safe maximum DUT voltage limits
-- [ ] Fuse or resettable protection
+* [x] Ceramic capacitor assortment
+* [x] Electrolytic capacitor assortment
 
-## Possible Future Improvements
-Might be overambitious lol but we'll see.
+---
 
-- [ ] Higher resolution external ADC
-- [ ] Dedicated instrumentation amplifier
-- [ ] Automatic transistor type detection
-- [ ] PCB enclosure
-- [ ] GUI application for live plotting
-- [ ] Automated parameter extraction
+# Devices Under Test
 
-<br><br><br><br><br><br><br><br><br>
+## Diodes
 
-# STUFF
+* [x] 1N4148 switching diode
+* [x] 1N4007 rectifier diode
+* [x] 1N5819 Schottky diode
+* [x] 1N4733 5.1V Zener diode
 
+## BJTs
+
+* [x] 2N3904 NPN BJT
+* [x] 2N2222 NPN BJT
+* [x] 2N3906 PNP BJT
+* [x] BC547 NPN BJT
+* [x] BC557 PNP BJT
+
+## MOSFETs
+
+* [x] 2N7000 N-channel MOSFET
+* [x] IRF540N N-channel MOSFET
+* [x] IRF9540 P-channel MOSFET
+
+---
+
+# Sockets and Connectors
+
+* [x] ZIF socket
+* [x] DIP IC sockets
+* [x] Male pin headers
+* [ ] Female pin headers
+* [ ] Screw terminal blocks
+
+---
+
+# Test Leads and Wiring Accessories
+
+* [ ] Alligator clip leads
+* [ ] Banana plug to alligator leads
+* [ ] Heat shrink tubing
+
+---
+
+# Soldering and Assembly
+
+* [x] Soldering iron
+* [x] Solder wire
+* [x] Desoldering pump
+* [x] Tweezers
+* [x] Solder fume extractor
+* [ ] Flux pen
+* [ ] Desoldering wick
+* [ ] Flush cutters
+* [ ] Helping hands
+
+---
+
+# PCB Version
+
+* [ ] Custom PCB
+* [x] Standoffs and mounting hardware
+* [ ] Rubber feet
+* [ ] Enclosure
+
+---
+
+# Software Tools
+
+## Programming
+
+* [x] Arduino IDE
+* [x] VS Code
+* [x] Python 3
+
+## Python Libraries
+
+* [ ] pyserial
+* [ ] matplotlib
+* [ ] numpy
+
+## Engineering Software
+
+* [ ] LTspice
+* [x] KiCad
+
+## Version Control
+
+* [x] GitHub account
+* [x] GitHub repository
+* [x] GitHub Desktop
