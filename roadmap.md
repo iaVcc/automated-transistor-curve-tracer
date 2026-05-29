@@ -10,7 +10,7 @@ The plan is to build and verify the system one block at a time before combining 
 
 Goal: Establish the basic firmware and software workflow needed for automated measurements.
 
-* [ ] Set up Arduino development environment
+* [x] Set up Arduino development environment
 * [ ] Validate analog input measurement
 * [ ] Validate serial communication between Arduino and computer
 * [ ] Set up Python environment
