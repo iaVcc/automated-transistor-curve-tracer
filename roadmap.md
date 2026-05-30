@@ -13,8 +13,8 @@ Goal: Establish the basic firmware and software workflow needed for automated me
 * [x] Set up Arduino development environment
 * [x] Validate analog input measurement
 * [x] Validate serial communication between Arduino and computer
-* [ ] Set up Python environment
-* [ ] Read serial data from Arduino using Python
+* [x] Set up Python environment
+* [x] Read serial data from Arduino using Python
 * [ ] Plot live measurement data using Python
 
 
