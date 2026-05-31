@@ -2,39 +2,39 @@
 
 An organized list of electronics equipment, components, modules, and tools I currently own.
 
----
 
-# Bench Equipment
+
+## Bench Equipment
 
 - AstroAI Digital Multimeter 2000
 - 1014D Digital Oscilloscope + Function Generator
 - Adjustable DC Bench Power Supply (0–30V, 0–10A)
 - Breadboard Power Supply Modules
 
----
 
-# Development Boards
 
-## Arduino Boards
+## Development Boards
+
+### Arduino Boards
 - Arduino Mega 2560
 - ELEGOO UNO R3 (ATmega328)
 
-## Accessories
+### Accessories
 - Arduino acrylic holder/base plate
 - Prototype shield
 - USB cables
 - Dupont wires
 - 40-pin headers
 
----
 
-# Core Analog / Measurement Components
 
-## ADC / DAC Modules
+## Core Analog / Measurement Components
+
+### ADC / DAC Modules
 - MCP4725 12-bit I2C DAC modules
 - ADS1115 16-bit I2C ADC modules
 
-## Operational Amplifiers / Analog ICs
+### Operational Amplifiers / Analog ICs
 - MCP6002 rail-to-rail op-amps
 - LM324
 - LM358
@@ -45,14 +45,14 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - JRC4558
 - ICL7660S
 
-## Power / Driver ICs
+### Power / Driver ICs
 - ULN2003
 - ULN2803
 - UC3842AN
 - UC3843AN
 - L293D motor driver
 
-## Other ICs
+### Other ICs
 - NE555 timers
 - PC817 optocouplers
 - 4N35 optocouplers
@@ -61,11 +61,11 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - TDA2822D
 - PT2399
 
----
 
-# Semiconductor Inventory
 
-## BJT Transistors
+## Semiconductor Inventory
+
+### BJT Transistors
 - 2N2222
 - 2N2907
 - 2N3904
@@ -90,7 +90,7 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - S9015
 - S9018
 
-## MOSFETs
+### MOSFETs
 - 2N7000
 - IRFZ44N
 - IRF510N
@@ -103,8 +103,23 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - IRF3205
 - IRF9540
 
-## Diodes
-### Zener Diodes
+### Diodes
+
+#### Rectifier Diodes
+- 1N4001
+- 1N4002
+- 1N4003
+- 1N4004
+- 1N4005
+- 1N4006
+- 1N4007
+
+#### Schottky Diodes
+- 1N5817
+- 1N5818
+- 1N5819
+
+#### Zener Diodes
 - 1N4728
 - 1N4729
 - 1N4730
@@ -116,11 +131,11 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - 1N4736
 - 1N4737
 
----
 
-# Passive Components
 
-## Resistors
+## Passive Components
+
+### Resistors
 - General resistor assortments
 - Precision potentiometers
 - 0.1% precision resistors:
@@ -128,21 +143,21 @@ An organized list of electronics equipment, components, modules, and tools I cur
   - 100Ω
   - 1kΩ
 
-## Capacitors
-### Ceramic Capacitors
+### Capacitors
+#### Ceramic Capacitors
 - 10pF to 100nF assortment
 
-### Electrolytic Capacitors
+#### Electrolytic Capacitors
 - 0.1uF to 1000uF assortment
 
-## Inductors
+### Inductors
 - Assorted inductors
 
----
 
-# Displays and User Interface
 
-## Displays
+## Displays and User Interface
+
+### Displays
 - I2C LCD 1602
 - 20x4 LCD display with IIC interface
 - 4-digit seven segment display
@@ -150,7 +165,7 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - Dot matrix display
 - LED bar graph
 
-## Inputs / Controls
+### Inputs / Controls
 - Buttons
 - Keypad
 - Joystick module
@@ -160,53 +175,53 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - IR receiver
 - Remote controller
 
-## Audio
+### Audio
 - Passive buzzer
 - Active buzzer
 - 3W 4Ω speaker
 - 2W 8Ω micro speaker
 
----
 
-# Sensors and Modules
 
-## Motion / Distance
+## Sensors and Modules
+
+### Motion / Distance
 - Ultrasonic ranging module
 - Infrared obstacle avoidance module
 - Infrared motion sensor
 - Tilt switch
 
-## Environmental Sensors
+### Environmental Sensors
 - Thermistor
 - Photoresistor
 - Temperature and humidity sensor
 - Water level detection sensor
 
-## Specialized Sensors
+### Specialized Sensors
 - TCS34725 RGB color sensor
 - MPU6050 IMU module
 - MPR121 touch controller
 - Sound sensor module
 
-## Communication / RFID
+### Communication / RFID
 - MFRC522 RFID module
 
-## Actuators
+### Actuators
 - 9G servo
 - Stepper motor
 - Fan
 - Relay module
 
----
 
-# Prototyping and Assembly
 
-## Breadboarding
+## Prototyping and Assembly
+
+### Breadboarding
 - Breadboards
 - Solderless jumper wires
 - Dupont wires
 
-## Sockets and Connectors
+### Sockets and Connectors
 - DIP-4 sockets
 - DIP-8 sockets
 - DIP-14 sockets
@@ -214,16 +229,16 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - DIP-18 sockets
 - 28-pin ZIF socket
 
-## Mechanical Hardware
+### Mechanical Hardware
 - Nylon standoff assortment kit
 - Mounting spacers
 - Screws and nuts
 
----
 
-# Soldering and Safety
 
-## Soldering Equipment
+## Soldering and Safety
+
+### Soldering Equipment
 - 80W soldering iron kit
 - Adjustable temperature soldering station
 - Solder wire
@@ -231,12 +246,12 @@ An organized list of electronics equipment, components, modules, and tools I cur
 - Tweezers
 - Soldering tips
 
-## Safety / Ventilation
+### Safety / Ventilation
 - Solder fume extractor
 
----
 
-# Power Accessories
+
+## Power Accessories
 
 - 9V lithium-ion rechargeable batteries
 - 9V battery cable
