@@ -2,13 +2,15 @@
 
 An organized list of electronics equipment, components, modules, and tools I currently own.
 
----
 
-## Component Storage System
+## Workstation / Bench Equipment
 
-Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-sensitive parts, wires, tools, and bulky accessories are stored in larger labeled bags or separate storage bins.
+- AstroAI Digital Multimeter 2000
+- 1014D Digital Oscilloscope + Function Generator
+- Jesverty SPS-3010N Power Supply, 0–30V, 0–10A
+- PC: Intel Core i5-12600K, AMD RX6600, 32GB DDR4 Ram, Win11 Home
+- Digilent Nexys 4 DDR
 
----
 
 ## Resistors / Variable Resistors
 
@@ -45,7 +47,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
   - 200kΩ
   - 1MΩ
 
----
+
 
 ## Capacitors
 
@@ -92,7 +94,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - 680uF 16V
 - 1000uF 16V
 
----
+
 
 ## Inductors
 
@@ -105,7 +107,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - 0.7 x 3.5 x 6.5T
 - 0.7 x 3.5 x 7.5T
 
----
+
 
 ## Diodes
 
@@ -135,7 +137,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - 1N4736
 - 1N4737
 
----
+
 
 ## BJTs
 
@@ -168,7 +170,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 
 > Note: BJT TO-92 pinouts can vary by manufacturer. Check datasheet or test before wiring.
 
----
+
 
 ## MOSFETs
 
@@ -187,7 +189,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 ### P-Channel MOSFETs
 - IRF9540
 
----
+
 
 ## Integrated Circuits
 
@@ -229,7 +231,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - MCP4725 12-bit I2C DAC modules
 - ADS1115 16-bit I2C ADC modules
 
----
+
 
 ## LEDs / Displays
 
@@ -249,7 +251,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - I2C LCD 1602
 - 20x4 LCD display with IIC interface
 
----
+
 
 ## Inputs / Controls
 
@@ -267,7 +269,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - IR receiver
 - Remote controller
 
----
+
 
 ## Sensors
 
@@ -290,7 +292,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - MFRC522 RFID module
 - DS3231 RTC module
 
----
+
 
 ## Audio
 
@@ -302,17 +304,17 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - 3W 4Ω speaker
 - 2W 8Ω micro speaker
 
----
+
 
 ## Actuators / Motors
 
 - DC motor
 - 9G servo
 - Stepper motor
-- Fan
+- DC Fan
 - Relay module
 
----
+
 
 ## Power Accessories
 
@@ -321,7 +323,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - 9V power supply adapter
 - Breadboard power supply modules
 
----
+
 
 ## Connectors / Sockets
 
@@ -336,7 +338,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - DIP-18 sockets
 - 28-pin ZIF socket
 
----
+
 
 ## Arduino / Prototyping
 
@@ -351,7 +353,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 ### Breadboarding
 - Breadboards
 
----
+
 
 ## Wires / Jumpers
 
@@ -359,7 +361,7 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - Dupont wires
 - Solderless jumper wires
 
----
+
 
 ## Hardware
 
@@ -367,17 +369,8 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - Mounting spacers
 - Screws and nuts
 
----
 
-## Bench Equipment
-
-- AstroAI Digital Multimeter 2000
-- 1014D Digital Oscilloscope + Function Generator
-- Adjustable DC Bench Power Supply, 0–30V, 0–10A
-
----
-
-## Soldering and Safety
+## Soldering
 
 ### Soldering Equipment
 - 80W soldering iron kit
@@ -386,14 +379,5 @@ Most small components are stored in labeled 2x3 inch bags. Larger modules, ESD-s
 - Desoldering pump
 - Tweezers
 - Soldering tips
-
-### Safety / Ventilation
 - Solder fume extractor
 
----
-
-## Unknown / To Sort
-
-- Unknown ceramic capacitors
-- Unverified components
-- Extra loose parts
