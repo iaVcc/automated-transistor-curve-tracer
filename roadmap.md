@@ -10,8 +10,8 @@ The plan is to build and verify the system one block at a time before combining 
 
 Goal: Establish the basic firmware and software workflow needed for automated measurements using the ESP32.
 
-* [ ] Set up ESP32 PlatformIO environment
-* [ ] Validate GPIO output with external LED
+* [x] Set up ESP32 PlatformIO environment
+* [x] Validate GPIO output with external LED
 * [ ] Validate 3.3V-safe analog input measurement
 * [ ] Validate serial communication between ESP32 and computer
 * [ ] Set up Python environment
