@@ -12,7 +12,7 @@ Goal: Establish the basic firmware and software workflow needed for automated me
 
 * [x] Set up ESP32 PlatformIO environment
 * [x] Validate GPIO output with external LED
-* [ ] Validate 3.3V-safe analog input measurement
+* [x] Validate 3.3V-safe analog input measurement
 * [x] Validate serial communication between ESP32 and computer
 * [ ] Set up Python environment
 * [ ] Read serial data from ESP32 using Python

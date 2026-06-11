@@ -1,22 +1,18 @@
 #include <Arduino.h>
 
-const int LED_PIN = 2;
-int counter = 0;
+const int POT_PIN = 34;
 
 void setup() {
-  pinMode(LED_PIN, OUTPUT);
   Serial.begin(9600);
 }
 
 void loop() {
-  digitalWrite(LED_PIN, HIGH);
-  delay(250);
+  int rawValue = analogRead(POT_PIN);
+  float voltage = rawValue * (3.3 / 4095.0);
 
-  digitalWrite(LED_PIN, LOW);
-  delay(250);
+  Serial.print(rawValue);
+  Serial.print(",");
+  Serial.println(voltage);
 
-  Serial.print("Counter: ");
-  Serial.println(counter);
-
-  counter++;
+  delay(200);
 }
