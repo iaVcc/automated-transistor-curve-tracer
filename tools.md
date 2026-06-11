@@ -14,8 +14,7 @@ Checklist of physical tools, components, and software I'll need for this project
 
 # Development Board
 
-* [x] Arduino Uno R3
-* [x] USB cable for Arduino
+* [x] ESP32
 
 ---
 
@@ -126,8 +125,7 @@ Checklist of physical tools, components, and software I'll need for this project
 
 ## Programming
 
-* [x] Arduino IDE
-* [x] VS Code
+* [x] VS Code w/ PlatformIO
 * [x] Python 3
 
 ## Python Libraries

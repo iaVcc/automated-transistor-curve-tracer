@@ -343,6 +343,7 @@ An organized list of electronics equipment, components, modules, and tools I cur
 ## Arduino / Prototyping
 
 ### Development Boards
+- ESP32
 - Arduino Mega 2560
 - Arduino Uno R3
 

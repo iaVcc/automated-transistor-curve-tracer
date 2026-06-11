@@ -6,28 +6,28 @@ The plan is to build and verify the system one block at a time before combining 
 
 
 
-## Phase 1: Embedded Data Acquisition Pipeline
+## Phase 1: ESP32 Embedded Data Acquisition Pipeline
 
-Goal: Establish the basic firmware and software workflow needed for automated measurements.
+Goal: Establish the basic firmware and software workflow needed for automated measurements using the ESP32.
 
-* [x] Set up Arduino development environment
-* [x] Validate analog input measurement
-* [x] Validate serial communication between Arduino and computer
-* [x] Set up Python environment
-* [x] Read serial data from Arduino using Python
-* [x] Plot live measurement data using Python
-
+* [ ] Set up ESP32 PlatformIO environment
+* [ ] Validate GPIO output with external LED
+* [ ] Validate 3.3V-safe analog input measurement
+* [ ] Validate serial communication between ESP32 and computer
+* [ ] Set up Python environment
+* [ ] Read serial data from ESP32 using Python
+* [ ] Plot live measurement data using Python
 
 
 ## Phase 2: DAC and ADC Validation
 
 Goal: Verify the external DAC and ADC modules before using them in the curve tracing circuit.
 
-* [ ] Interface MCP4725 DAC with Arduino over I2C
+* [ ] Interface MCP4725 DAC with ESP32 over I2C
 * [ ] Generate fixed DAC output voltages
 * [ ] Generate controlled voltage sweeps
 * [ ] Verify DAC output using multimeter
-* [ ] Interface ADS1115 ADC with Arduino over I2C
+* [ ] Interface ADS1115 ADC with ESP32 over I2C
 * [ ] Measure known voltages using ADS1115
 * [ ] Compare ADC measurements against multimeter readings
 * [ ] Send ADC data to Python for plotting and logging
