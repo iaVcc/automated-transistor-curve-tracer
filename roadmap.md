@@ -14,9 +14,9 @@ Goal: Establish the basic firmware and software workflow needed for automated me
 * [x] Validate GPIO output with external LED
 * [x] Validate 3.3V-safe analog input measurement
 * [x] Validate serial communication between ESP32 and computer
-* [ ] Set up Python environment
-* [ ] Read serial data from ESP32 using Python
-* [ ] Plot live measurement data using Python
+* [x] Set up Python environment
+* [x] Read serial data from ESP32 using Python
+* [x] Plot live measurement data using Python
 
 
 ## Phase 2: DAC and ADC Validation
