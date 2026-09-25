@@ -1,1 +1,1 @@
-Building a mixed-signal test platform to explore real transistor behavior beyond textbook equations.
+Building a mixed-signal testing platform to explore real transistor behaviour beyond textbook equations.
