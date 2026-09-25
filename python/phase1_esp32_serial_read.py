@@ -1,3 +1,5 @@
+# The point of 'phase1_esp32_live_plot.py' is to recieve and parse those serial measurements on the computer.
+
 import serial
 import time
 
