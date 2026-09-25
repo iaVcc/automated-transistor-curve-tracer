@@ -1,3 +1,6 @@
+// The point of this file in its current state is to read the potentiometer voltage 
+// with the ESP32 and sent the measurements over serial communication.
+
 #include <Arduino.h>
 
 const int POT_PIN = 34;

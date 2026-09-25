@@ -43,9 +43,14 @@ Took way longer than I expected but now every electronic component I own is labe
 
 ### 06-10-2026
 
-Decided to change the main controller from Arduino Uno to ESP32 and restart phase 1, removed old Arduino files.
+Decided to change the main controller from Arduino Uno to ESP32 and restart phase 1, removed old Arduino files. Reason for switching 
 
 
 ### 06-11-2026
 
 Redid Phase 1 using the ESP32. Verified GPIO output, serial communication, 3.3V safe analog input, Python serial reading, and live voltage plotting. Saved the ESP32 potentiometer setup photo and live plot demo in `docs/`.
+
+
+### 09-25-2026
+
+Returning after a while so I did some Phase 1 cleanup and started Phase 2.

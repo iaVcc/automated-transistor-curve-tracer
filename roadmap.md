@@ -6,7 +6,7 @@ The plan is to build and verify the system one block at a time before combining 
 
 
 
-## Phase 1: ESP32 Embedded Data Acquisition Pipeline
+## Phase 1: ESP32 Embedded Data Acquisition Pipeline 
 
 Goal: Establish the basic firmware and software workflow needed for automated measurements using the ESP32.
 

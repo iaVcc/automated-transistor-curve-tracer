@@ -131,12 +131,12 @@ Checklist of physical tools, components, and software I'll need for this project
 ## Python Libraries
 
 * [ ] pyserial
-* [ ] matplotlib
-* [ ] numpy
+* [x] matplotlib
+* [x] numpy
 
 ## Engineering Software
 
-* [ ] LTspice
+* [x] LTspice
 * [x] KiCad
 
 ## Version Control

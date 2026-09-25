@@ -1,3 +1,5 @@
+# The purpose behind 'phase1_esp32_live_plot.py' is to recieve those parsed measurements and plot the voltage data live.
+
 import serial
 import time
 import matplotlib.pyplot as plt
