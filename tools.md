@@ -6,9 +6,9 @@ Checklist of physical tools, components, and software I'll need for this project
 
 # Bench Equipment
 
-* [x] Adjustable DC bench power supply
-* [x] Digital multimeter
-* [x] Oscilloscope with function generator
+* [x] Adjustable DC bench power supply (SPS-3010N, 0-30V 0-10A)
+* [x] Digital multimeter (AM33D)
+* [x] Oscilloscope with function generator (FNIRSI-1014D)
 
 ---
 

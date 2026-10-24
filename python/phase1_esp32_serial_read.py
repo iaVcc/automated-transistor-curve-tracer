@@ -1,9 +1,10 @@
-# The point of 'phase1_esp32_live_plot.py' is to recieve and parse those serial measurements on the computer.
+# The point of 'phase1_esp32_live_plot.py' is to recieve and parse those
+# serial measurements on the computer.
 
 import serial
 import time
 
-PORT = "COM4"
+PORT = "COM3"
 BAUD_RATE = 9600
 
 def main():
@@ -11,7 +12,8 @@ def main():
         time.sleep(2)
 
         while True:
-            line = esp32.readline().decode("utf-8").strip()
+            # errors="ignore" skips garbage bytes the ESP32 can send when booting.
+            line = esp32.readline().decode("utf-8", errors="ignore").strip()
 
             if not line:
                 continue
@@ -21,10 +23,13 @@ def main():
                 raw_value = int(raw_text)
                 voltage = float(voltage_text)
 
-                print(f"Raw: {raw_value}, Voltage: {voltage:.2f} V")
+                print(f"Raw: {raw_value}, Voltage: {voltage:.3f} V")
 
             except ValueError:
                 print(f"Could not parse line: {line}")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("Stopped")

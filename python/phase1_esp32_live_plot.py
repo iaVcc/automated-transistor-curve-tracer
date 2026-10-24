@@ -1,11 +1,12 @@
-# The purpose behind 'phase1_esp32_live_plot.py' is to recieve those parsed measurements and plot the voltage data live.
+# The purpose behind 'phase1_esp32_live_plot.py' is to receive those parsed
+# measurements and plot the voltage data live.
 
 import serial
 import time
 import matplotlib.pyplot as plt
 from collections import deque
 
-PORT = "COM4"
+PORT = "COM3"
 BAUD_RATE = 9600
 MAX_POINTS = 50
 
@@ -28,7 +29,8 @@ def main():
         ax.set_ylabel("Voltage (V)")
         ax.set_ylim(0, 3.5)
 
-        while True:
+        # Stop cleanly when the plot window is closed.
+        while plt.fignum_exists(fig.number):
             line = esp32.readline().decode("utf-8", errors="ignore").strip()
 
             if not line:
@@ -54,4 +56,7 @@ def main():
                 print(f"Could not parse line: {line}")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        print("Stopped.")
