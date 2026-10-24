@@ -1,6 +1,6 @@
 // I2C scanner: lists the address of every chip that answers on the bus.
 // First thing to run whenever an I2C chip isnt responding.
-// Expected for this: 0x48 (ADS1115), 0x60 (DAC A), 0x61 (DAC B).
+// Expected: 0x48 (ADS1115) and 0x60 (MCP4725). Each DAC sits on its own bus later, so both stay 0x60.
 
 #include <Arduino.h>
 #include <Wire.h>

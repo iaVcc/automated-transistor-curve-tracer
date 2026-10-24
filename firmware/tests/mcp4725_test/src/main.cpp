@@ -6,7 +6,7 @@
 #include <Wire.h>
 #include <Adafruit_MCP4725.h>
 
-// 0x60 until the address jumper is changed; use 0x61 to test DAC B afterwards.
+// Factory address. Both DACs use 0x60, test them one at a time.
 const uint8_t DAC_ADDR = 0x60;
 
 Adafruit_MCP4725 dac;

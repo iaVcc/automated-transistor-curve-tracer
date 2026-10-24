@@ -23,13 +23,13 @@ Goal: Establish the basic firmware and software workflow needed for automated me
 
 Goal: Verify the external DAC and ADC modules before using them in the curve tracing circuit.
 
-* [ ] Interface MCP4725 DAC with ESP32 over I2C
-* [ ] Generate fixed DAC output voltages
+* [x] Interface MCP4725 DAC with ESP32 over I2C
+* [x] Generate fixed DAC output voltages
 * [ ] Generate controlled voltage sweeps
-* [ ] Verify DAC output using multimeter
-* [ ] Interface ADS1115 ADC with ESP32 over I2C
-* [ ] Measure known voltages using ADS1115
-* [ ] Compare ADC measurements against multimeter readings
+* [x] Verify DAC output using multimeter
+* [x] Interface ADS1115 ADC with ESP32 over I2C
+* [x] Measure known voltages using ADS1115
+* [x] Compare ADC measurements against multimeter readings
 * [ ] Send ADC data to Python for plotting and logging
 
 
