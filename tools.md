@@ -59,7 +59,7 @@ Checklist of physical tools, components, and software I'll need for this project
 
 ## Diodes
 
-* [x] 1N4148 switching diode
+* [ ] 1N4148 switching diode
 * [x] 1N4007 rectifier diode
 * [x] 1N5819 Schottky diode
 * [x] 1N4733 5.1V Zener diode
@@ -130,7 +130,7 @@ Checklist of physical tools, components, and software I'll need for this project
 
 ## Python Libraries
 
-* [ ] pyserial
+* [x] pyserial
 * [x] matplotlib
 * [x] numpy
 
@@ -143,4 +143,4 @@ Checklist of physical tools, components, and software I'll need for this project
 
 * [x] GitHub account
 * [x] GitHub repository
-* [x] GitHub Desktop
+* [x] VS Code Source Control

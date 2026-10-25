@@ -41,7 +41,7 @@ Goal: Build the first working curve tracing circuit using diodes as the device u
 * [ ] Build current-limited diode test circuit
 * [ ] Measure diode voltage and current
 * [ ] Generate first measured I-V curve
-* [ ] Characterize 1N4148 switching diode
+* [ ] Characterize red, green and blue LEDs
 * [ ] Characterize 1N4007 rectifier diode
 * [ ] Characterize 1N5819 Schottky diode
 * [ ] Compare measured diode curves
